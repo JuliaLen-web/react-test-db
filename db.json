@@ -1,14 +1,208 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "companies": [
+    {
+      "id": 1,
+      "title": "Абра",
+      "industry": "it",
+      "vacancy": "13"
+    },
+    {
+      "id": 13,
+      "title": "Барабан",
+      "industry": "bus",
+      "vacancy": "133"
+    },
+    {
+      "id": 15,
+      "title": "Городище",
+      "industry": "it",
+      "vacancy": "113"
+    },
+    {
+      "id": 12,
+      "title": "Жаб",
+      "industry": "it",
+      "vacancy": "123"
+    },
+    {
+      "id": 17,
+      "title": "Правдопободная",
+      "industry": "medic",
+      "vacancy": "132"
+    },
+    {
+      "id": 21,
+      "title": "Предположим",
+      "industry": "medic",
+      "vacancy": "1"
+    },
+    {
+      "id": 213,
+      "title": "Слово",
+      "industry": "business",
+      "vacancy": "131"
+    },
+    {
+      "id": 215,
+      "title": "Среднинская",
+      "industry": "business",
+      "vacancy": "137"
+    },
+    {
+      "id": 212,
+      "title": "Половецкая",
+      "industry": "medic",
+      "vacancy": "83"
+    },
+    {
+      "id": 217,
+      "title": "Экранированная",
+      "industry": "bus",
+      "vacancy": "73"
+    },
+    {
+      "id": 312,
+      "title": "Добро",
+      "industry": "it",
+      "vacancy": "53"
+    },
+    {
+      "id": 317,
+      "title": "Лесопободная",
+      "industry": "business",
+      "vacancy": "44"
+    },
+    {
+      "id": 321,
+      "title": "Огонь",
+      "industry": "business",
+      "vacancy": "66"
+    },
+    {
+      "id": 3213,
+      "title": "Вода",
+      "industry": "bus",
+      "vacancy": "75"
+    },
+    {
+      "id": 3215,
+      "title": "Простая",
+      "industry": "it",
+      "vacancy": "53"
+    },
+    {
+      "id": 3212,
+      "title": "Захарько",
+      "industry": "doll",
+      "vacancy": "43"
+    },
+    {
+      "id": 3217,
+      "title": "Юнеско",
+      "industry": "bus",
+      "vacancy": "25"
+    },
+    {
+      "id": 41,
+      "title": "Абара",
+      "industry": "doll",
+      "vacancy": "233"
+    },
+    {
+      "id": 413,
+      "title": "Баарабан",
+      "industry": "bus",
+      "vacancy": "232"
+    },
+    {
+      "id": 415,
+      "title": "Гоародище",
+      "industry": "doll",
+      "vacancy": "3"
+    },
+    {
+      "id": 142,
+      "title": "Жаба",
+      "industry": "it",
+      "vacancy": "2"
+    },
+    {
+      "id": 147,
+      "title": "Правадопободная",
+      "industry": "doll",
+      "vacancy": "4"
+    },
+    {
+      "id": 421,
+      "title": "Предпаоложим",
+      "industry": "medic",
+      "vacancy": "5"
+    },
+    {
+      "id": 4213,
+      "title": "Словаа",
+      "industry": "business",
+      "vacancy": "66"
+    },
+    {
+      "id": 4215,
+      "title": "Жеднинская",
+      "industry": "business",
+      "vacancy": "74"
+    },
+    {
+      "id": 4212,
+      "title": "Лоловецкая",
+      "industry": "medic",
+      "vacancy": "43"
+    },
+    {
+      "id": 2417,
+      "title": "Хекранированная",
+      "industry": "bus",
+      "vacancy": "63"
+    },
+    {
+      "id": 4312,
+      "title": "Доабро",
+      "industry": "doll",
+      "vacancy": "75"
+    },
+    {
+      "id": 4317,
+      "title": "Лааасопободная",
+      "industry": "business",
+      "vacancy": "82"
+    },
+    {
+      "id": 4321,
+      "title": "about confident project company",
+      "industry": "doll",
+      "vacancy": "11"
+    },
+    {
+      "id": 43213,
+      "title": "Ввода",
+      "industry": "doll",
+      "vacancy": "16"
+    },
+    {
+      "id": 43215,
+      "title": "Преостая",
+      "industry": "it",
+      "vacancy": "67"
+    },
+    {
+      "id": 43212,
+      "title": "Зазарько",
+      "industry": "business",
+      "vacancy": "41"
+    },
+    {
+      "id": 34217,
+      "title": "Ленеско",
+      "industry": "bus",
+      "vacancy": "211"
+    }
+  ]
 }
