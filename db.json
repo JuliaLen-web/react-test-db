@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Барабан",
-      "industry": "bus",
+      "industry": "trash",
       "vacancy": "1"
     },
     {
@@ -45,7 +45,7 @@
     {
       "id": 217,
       "title": "Экранированная",
-      "industry": "bus",
+      "industry": "trash",
       "vacancy": "4"
     },
     {
@@ -63,7 +63,7 @@
     {
       "id": 3213,
       "title": "Вода",
-      "industry": "bus",
+      "industry": "trash",
       "vacancy": "7"
     },
     {
@@ -81,7 +81,7 @@
     {
       "id": 3217,
       "title": "Юнеско",
-      "industry": "bus",
+      "industry": "trash",
       "vacancy": "25"
     },
     {
@@ -93,7 +93,7 @@
     {
       "id": 413,
       "title": "Баарабан",
-      "industry": "bus",
+      "industry": "trash",
       "vacancy": "5"
     },
     {
@@ -123,7 +123,7 @@
     {
       "id": 2417,
       "title": "Хекранированная",
-      "industry": "bus",
+      "industry": "trash",
       "vacancy": "10"
     },
     {
@@ -159,7 +159,7 @@
     {
       "id": 34217,
       "title": "Ленеско",
-      "industry": "bus",
+      "industry": "trash",
       "vacancy": "21"
     }
   ]
