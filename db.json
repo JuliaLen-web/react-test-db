@@ -97,22 +97,10 @@
       "vacancy": "232"
     },
     {
-      "id": 415,
-      "title": "Гоародище",
-      "industry": "doll",
-      "vacancy": "3"
-    },
-    {
       "id": 142,
       "title": "Жаба",
       "industry": "it",
       "vacancy": "2"
-    },
-    {
-      "id": 421,
-      "title": "Предпаоложим",
-      "industry": "medic",
-      "vacancy": "5"
     },
     {
       "id": 4213,
@@ -137,12 +125,6 @@
       "title": "Хекранированная",
       "industry": "bus",
       "vacancy": "63"
-    },
-    {
-      "id": 4312,
-      "title": "Доабро",
-      "industry": "doll",
-      "vacancy": "75"
     },
     {
       "id": 4317,
