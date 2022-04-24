@@ -1,12 +1,6 @@
 {
   "companies": [
     {
-      "id": 1,
-      "title": "Абра",
-      "industry": "it",
-      "vacancy": "13"
-    },
-    {
       "id": 13,
       "title": "Барабан",
       "industry": "bus",
@@ -17,12 +11,6 @@
       "title": "Городище",
       "industry": "it",
       "vacancy": "113"
-    },
-    {
-      "id": 12,
-      "title": "Жаб",
-      "industry": "it",
-      "vacancy": "123"
     },
     {
       "id": 17,
@@ -65,12 +53,6 @@
       "title": "Добро",
       "industry": "it",
       "vacancy": "53"
-    },
-    {
-      "id": 317,
-      "title": "Лесопободная",
-      "industry": "business",
-      "vacancy": "44"
     },
     {
       "id": 321,
@@ -125,12 +107,6 @@
       "title": "Жаба",
       "industry": "it",
       "vacancy": "2"
-    },
-    {
-      "id": 147,
-      "title": "Правадопободная",
-      "industry": "doll",
-      "vacancy": "4"
     },
     {
       "id": 421,
